@@ -23,18 +23,29 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,expressjs,tailwind,materialui,bootstrap,figma,mysql,firebase,git,github,gitlab,postman,vscode,vercel,netlify" align="center">
 <br>
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=man-navlakha&label=Profile%20views&color=61D9FA&style=for-the-badge&logo=star" alt="man-navlakha" style="padding-right:20px;" />
+</p>
 
   [![Man's GitHub stats](https://github-readme-stats.vercel.app/api?username=man-navlakha&theme=transparent&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true&text_color=#ffffff)](https://github.com/man-navlakha)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=man-navlakha&layout=donut&theme=transparent&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true&text_color=#ffffff)](https://github.com/man-navlakha)
+ <a href="https://github.com/man-navlakha">
+          <img align="center" src="https://streak-stats.demolab.com?user=man-navlakha&theme=transparent&hide_border=true&show_icons=true&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=61D9FA&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+<br>
+<br>
+<img width="676" height="352" alt="image" src="https://github.com/user-attachments/assets/cfb99e4f-d5ff-4530-8f7f-3cf36b193b30" />
+
 
 <!----------------------------- Open Source Projects --------------------------->
 ## 🔖 Some of my Repositories
 
 <p align="left">
-  <a href="https://github.com/man-navlakha/pxc"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=man-navlakha&repo=pxc&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/man-navlakha/img-server"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=man-navlakha&repo=img-server&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/man-navlakha/profile"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=man-navlakha&repo=profile&hide_border=true&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&theme=react&show_icons=true" alt="readme-typing-svg"></a>
-  <a href="https://github.com/Design-and-Code/system-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=man-navlakha&repo=system-app&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" alt="custom-icon-badges"></a>
+  <a href="https://github.com/man-navlakha/pxc"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=man-navlakha&repo=pxc&theme=react&bg_color=20232a&hide_border=true&show_icons=true&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/man-navlakha/img-server"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=man-navlakha&repo=img-server&theme=react&bg_color=20232a&hide_border=true&show_icons=true&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/man-navlakha/profile"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=man-navlakha&repo=profile&hide_border=true&bg_color=20232a&hide_border=true&show_icons=true&title_color=61D9FA&icon_color=F8D866&theme=react&show_icons=true" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Design-and-Code/system-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=man-navlakha&repo=system-app&theme=react&bg_color=20232a&hide_border=true&show_icons=true&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" alt="custom-icon-badges"></a>
 </p>
 <p align="left">
   <a href="https://github.com/man-navlakha?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -43,6 +54,26 @@
 <br>
 
 
+<!--Trophies Section-->   
+## 🏆 Github Trophies
+<p align="center">
+  <a href="https://github.com/man-navlakha">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=man-navlakha&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=man-navlakha&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=man-navlakha&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<br />
+
+<!--Contribution Graph-->
+## 📈 Contribution Graph
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=man-navlakha&bg_color=20232a&hide_border=true&show_icons=true&&color=ffffff&line=61D9FA&point=F8D866&area=false" border-radius="15">
+</div>
+
+---
 <!--------------------------------- Social Links --------------------------------->
 ## 🤝🏻 Connect with Me
 
