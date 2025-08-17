@@ -1,0 +1,60 @@
+<!---------------------------- Typewriter animation ----------------------------->
+# Hello👋, It's me Man Navlakha!😇
+![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Web+Developer;I'm+a+UI%2FUX+Designer;I'm+a+Graphic+Designer)
+
+
+<!---------------------------- About Me ----------------------------->
+
+<!-- <img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" /> -->
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/man-navlakha/man-navlakha/main/developer.gif" height="250" width="375" />
+
+- 🔭 Currently crafting my Portfolio with passion and precision.
+- 👨‍💻 Explore my diverse projects at https://man-navlakha.netlify.app/.
+- 💬 Ask me about **Web Development, UI/UX Design, Graphic Design.**
+- 📫 Reach out to me at: <a href="mailto:mannavlakha1021@gmail.com">mannavlakha1021@gmail.com</a>
+- 📄 Dive into my experiences with my **Resume**: [here]([https://docs.google.com/document/d/1Gt9kTDOgqljUXPw6nbJGGiKxbST5IjEY](https://ik.imagekit.io/pxc/mannavlakha/Man%20Navlakha%20Resume.pdf?updatedAt=1755343374880))
+<br>
+<br>
+
+<!--⚡ Fun fact: Apart from coding, I'm also an accomplished **Artist**! -- >
+
+<!---------------------------- My Skills Section ----------------------------->
+## 💻 Tech Backpack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,expressjs,tailwind,materialui,bootstrap,figma,mysql,firebase,git,github,gitlab,postman,vscode,vercel,netlify" align="center">
+<br>
+
+  [![Man's GitHub stats](https://github-readme-stats.vercel.app/api?username=man-navlakha&theme=transparent&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true&text_color=#ffffff)](https://github.com/man-navlakha)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=man-navlakha&layout=donut&theme=transparent&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true&text_color=#ffffff)](https://github.com/man-navlakha)
+
+<!----------------------------- Open Source Projects --------------------------->
+## 🔖 Some of my Repositories
+
+<p align="left">
+  <a href="https://github.com/man-navlakha/pxc"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=man-navlakha&repo=pxc&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/man-navlakha/img-server"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=man-navlakha&repo=img-server&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/man-navlakha/profile"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=man-navlakha&repo=profile&hide_border=true&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&theme=react&show_icons=true" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Design-and-Code/system-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=man-navlakha&repo=system-app&theme=react&bg_color=20232a&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" alt="custom-icon-badges"></a>
+</p>
+<p align="left">
+  <a href="https://github.com/man-navlakha?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
+<br>
+<br>
+
+
+<!--------------------------------- Social Links --------------------------------->
+## 🤝🏻 Connect with Me
+
+<p align="left">
+<a href="mailto:mannavlakha1021@gmail.com" style="text-decoration:none">
+  <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/navlakhaman/" style="text-decoration:none">
+  <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+
+<!---------------------------------  Marquee Animation  ------------------------>
+<img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
