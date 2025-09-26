@@ -12,7 +12,7 @@
 - 👨‍💻 Explore my diverse projects at https://man-navlakha.netlify.app/.
 - 💬 Ask me about **Web Development, UI/UX Design, Graphic Design.**
 - 📫 Reach out to me at: <a href="mailto:mannavlakha1021@gmail.com">mannavlakha1021@gmail.com</a>
-- 📄 Dive into my experiences with my **Resume**: [here]([https://docs.google.com/document/d/1Gt9kTDOgqljUXPw6nbJGGiKxbST5IjEY](https://ik.imagekit.io/pxc/mannavlakha/Man%20Navlakha%20Resume.pdf?updatedAt=1755343374880))
+- 📄 Dive into my experiences with my **Resume**:([Download](https://ik.imagekit.io/pxc/mannavlakha/Man%20Navlakha%20Resume.pdf?updatedAt=1755343374880))
 <br>
 <br>
 
@@ -45,7 +45,9 @@
   <a href="https://github.com/man-navlakha/pxc"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=man-navlakha&repo=pxc&theme=react&bg_color=20232a&hide_border=true&show_icons=true&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/man-navlakha/img-server"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=man-navlakha&repo=img-server&theme=react&bg_color=20232a&hide_border=true&show_icons=true&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/man-navlakha/profile"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=man-navlakha&repo=profile&hide_border=true&bg_color=20232a&hide_border=true&show_icons=true&title_color=61D9FA&icon_color=F8D866&theme=react&show_icons=true" alt="readme-typing-svg"></a>
-  <a href="https://github.com/Design-and-Code/system-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=man-navlakha&repo=system-app&theme=react&bg_color=20232a&hide_border=true&show_icons=true&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" alt="custom-icon-badges"></a>
+  <a href="https://github.com/man-navlakha/system-app"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=man-navlakha&repo=system-app&theme=react&bg_color=20232a&hide_border=true&show_icons=true&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" alt="custom-icon-badges"></a>
+  <a href="https://github.com/man-navlakha/MS"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=man-navlakha&repo=ms&theme=react&bg_color=20232a&hide_border=true&show_icons=true&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" alt="custom-icon-badges"></a>
+  <a href="https://github.com/man-navlakha/Mechenic"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=man-navlakha&repo=Mechenic&theme=react&bg_color=20232a&hide_border=true&show_icons=true&title_color=61D9FA&icon_color=F8D866&hide_border=true&show_icons=true" alt="custom-icon-badges"></a>
 </p>
 <p align="left">
   <a href="https://github.com/man-navlakha?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
