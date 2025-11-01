@@ -95,7 +95,7 @@
 ## 🤝🏻 Connect with Me
 
 <a href="https://linkedin.com/in/navlakhaman"><img src="https://img.shields.io/badge/-navlakhaman-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:vivek.p9737@gmail.com"><img src="https://img.shields.io/badge/-mannavlakha1021@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:mannavlakha1021@gmail.com"><img src="https://img.shields.io/badge/-mannavlakha1021@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 <!---------------------------------  Marquee Animation  ------------------------>
 <img height="100" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
